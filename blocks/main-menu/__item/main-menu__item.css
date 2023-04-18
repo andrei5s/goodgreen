@@ -1,0 +1,20 @@
+.main-menu__item {
+    color: white;
+    font-family: "Roboto Slab", serif;
+    font-size: 14px;
+    font-weight: 500;
+    margin-left: 20px;
+    text-decoration: none;
+    transition: 10ms;
+}
+
+.main-menu__item:hover {
+    color: #7BC30E;
+}
+
+@media screen and (max-width: 900px) {
+    .main-menu__item {
+        font-size: 13px;
+        font-weight: 400;
+    }
+}

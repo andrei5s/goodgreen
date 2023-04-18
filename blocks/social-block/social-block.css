@@ -1,0 +1,6 @@
+.social-block {
+    width: 52px;
+    position: fixed;
+    top: calc(50% - 170px);
+    left: calc(100% - 100px);
+}

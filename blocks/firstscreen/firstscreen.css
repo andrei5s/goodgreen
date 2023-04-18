@@ -1,0 +1,5 @@
+.firstscreen {
+    width: 100vw;
+    height: 700px;
+    background: url(../../img/pack_1.png) calc(50% - 20px) calc(50% + 160px) no-repeat, url(../../img/glass_1.png) calc(50% - 20px) center no-repeat, url(../../img/bg_first_screen.jpg) center center/cover no-repeat;
+}

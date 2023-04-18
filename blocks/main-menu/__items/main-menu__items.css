@@ -1,0 +1,6 @@
+.main-menu__items {
+    display: flex;
+    list-style: none;
+    justify-content: flex-end;
+    padding: 0;
+}

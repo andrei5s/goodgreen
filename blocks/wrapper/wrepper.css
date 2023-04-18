@@ -1,0 +1,15 @@
+    .wrapper {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        max-width: 1200px;
+        width: 93%;
+        height: 100%;
+        margin: auto;
+    }
+    
+    @media screen and (max-width: 900px) {
+        .wrapper {
+            width: 90%;
+        }
+    }
